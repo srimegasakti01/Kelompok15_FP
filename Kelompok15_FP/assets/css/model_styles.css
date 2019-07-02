@@ -1,0 +1,94 @@
+.navbar{
+	background-color: black;
+}
+
+.nav-link{
+	margin-left: 5px;
+	color: white;       
+	height: 15px;       
+	font-size: 20px; 
+	font-family: Courier New;   
+	text-align: center;         
+	margin-bottom: 25px;
+}
+
+.nav-icon{
+	font-size: 25px;
+	margin-left: 20px;
+}
+
+
+
+.sidebar{
+	padding-top: 100px;
+	width: 100%;
+	height: 550px;
+	display: flex;
+	flex-direction: row;
+	background-color: lightgreen;
+}
+
+.kiri{
+	width: 25%;
+	height: 500px;
+	background-color: #FDE8B3;
+	justify-content: center;
+}
+
+.list-group{
+	padding-top: 150px;
+}
+
+.kanan{
+	width: 75%;
+	height: 500px;
+	background-color: #342212;
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+}
+
+.menu{
+	margin-bottom: 20px;
+	color:  #120A08;
+}
+
+#gambar1{
+	display: flex;
+	flex-direction: row;
+}
+
+.card1{
+	margin-top: 80px;
+	height: 350px;
+	justify-content: center;
+	background-color: none;
+	margin-left: 30px;
+
+}
+
+#gambar2{
+	display: flex;
+	flex-direction: row;
+}
+
+.card2{
+	margin-top: 80px;
+	height: 350px;
+	justify-content: center;
+	background-color: none;
+	margin-left: 30px;
+
+}
+
+div p{
+	color: white;
+	margin-top: 5px;
+
+}
+
+.A{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
